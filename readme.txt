@@ -5,7 +5,7 @@ Tired of pressing "F5" all day waiting for an update from the SEC before March 1
 Step 1:  Downloand and install Python.     
 Step 2:  Open up Python IDLE.    
 Step 3:  Go to File-> New File.     
-Step 4:  Copy & Paste the contents of https://github.com/coinables/bitcoin-python-etf/etf.py into the new file you just created.    
+Step 4:  Copy & Paste the contents of https://github.com/coinables/python-bitcoin-etf/etf.py into the new file you just created.    
 Step 5:  Save
 Step 6:  Go to Run-> Run Module or Press F5 to run
 
